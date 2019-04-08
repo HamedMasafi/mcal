@@ -1,0 +1,3 @@
+[submodule "3rdparty/libcalendars"]
+	path = 3rdparty/libcalendars
+	url = https://github.com/HamedMasafi/libcalendars.git
